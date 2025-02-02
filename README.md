@@ -56,43 +56,6 @@ Front-end: http://localhost:8080
 
 Back-end (API): http://localhost:8081
 
-📂 Estrutura do Projeto
-Copy
-Desbrave/
-├── src/                        # Código-fonte da aplicação
-│   ├── frontend/               # Front-end (HTML, CSS, JavaScript)
-│   │   ├── assets/             # Imagens, ícones, fonts
-│   │   ├── css/                # Arquivos CSS
-│   │   ├── js/                 # Arquivos JavaScript
-│   │   ├── index.html          # Página inicial
-│   │   ├── login.html          # Página de login
-│   │   ├── register.html       # Página de cadastro
-│   │   ├── forum.html          # Tela de fóruns
-│   │   ├── courses.html        # Tela de cursos
-│   │   └── dashboard.html      # Dashboard do usuário
-│   │
-│   └── backend/                # Back-end (Java Spring Boot)
-│       ├── src/
-│       │   ├── main/
-│       │   │   ├── java/com/desbrave/
-│       │   │   │   ├── controller/  # Controladores REST
-│       │   │   │   ├── service/     # Lógica de negócio
-│       │   │   │   ├── repository/  # Repositórios do banco de dados
-│       │   │   │   └── model/       # Entidades do banco de dados
-│       │   │   └── resources/
-│       │   │       ├── application.properties  # Configurações do Spring Boot
-│       │   │       └── static/      # Arquivos estáticos (opcional)
-│       │   └── test/                # Testes unitários
-│       └── Dockerfile              # Configuração do Docker
-│
-├── database/                  # Scripts do banco de dados
-│   ├── schema.sql             # Script de criação do banco de dados
-│   └── data.sql               # Dados iniciais (opcional)
-│
-├── docker-compose.yml         # Configuração do Docker Compose
-├── README.md                  # Documentação do projeto
-└── .gitignore                 # Arquivos ignorados pelo Git
-
 🧩 Funcionalidades:
 
 1.Cadastro e Login: Autenticação segura para usuários.
@@ -117,7 +80,6 @@ git commit -m "Adicionei uma nova funcionalidade"
 bash
 Copy
 git push origin minha-feature
-
 5. Abra um Pull Request.
 
 
