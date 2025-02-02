@@ -25,10 +25,10 @@ Os jovens precisam de um espaço que seja:
 ---
 
 ## 🛠️ Tecnologias Utilizadas
-- **Front-end**: HTML, CSS, JavaScript.
-- **Back-end**: Java com Spring Boot.
-- **Banco de Dados**: MySQL.
-- **Infraestrutura**: Docker.
+- **Front-end**: HTML, CSS, JavaScript  — Usamos essas tecnologias para criar uma interface intuitiva e acessível para todos os públicos.
+- **Back-end**: Java com Spring Boot — Escolhemos o Spring Boot pela robustez e segurança que ele oferece para a construção de APIs.
+- **Banco de Dados**: MySQL  — Banco de dados relacional, ideal para armazenar os dados de usuários e conteúdo de cursos e fóruns.
+- **Infraestrutura**: Docker — Garantindo portabilidade e facilidade de implantação através de contêineres.
 
 ---
 
@@ -58,13 +58,19 @@ Back-end (API): http://localhost:8081
 
 🧩 Funcionalidades:
 
-1.Cadastro e Login: Autenticação segura para usuários.
+1.Cadastro e Login:  Autenticação segura e personalizada para cada usuário, garantindo a proteção dos dados.
 
-2.Fóruns: Espaço seguro para discussões e interações.
+2.Fóruns: Espaço seguro e moderado onde jovens podem discutir temas sobre cultura, educação digital e mais.
 
-3.Cursos: Cursos gratuitos com vídeos, textos e quizzes.
+3.Cursos: Acesso a cursos gratuitos, com vídeos, textos e quizzes, para capacitar jovens sobre cultura e cidadania digital.
 
-4.Dashboard do Usuário: Área personalizada com progresso e métricas.
+4.Dashboard do Usuário: Área personalizada com informações sobre o progresso, conquistas e métricas de aprendizado.
+
+## 🌍 Impacto Social
+- **Aumentar o engajamento dos jovens** com a cultura local de Recife.
+- **Reduzir a exclusão digital** em comunidades periféricas, criando oportunidades de aprendizado e desenvolvimento digital.
+- **Fortalecer a identidade cultural** de Recife ao conectar os jovens com a história e tradições da cidade.
+
 
 🤝 Como Contribuir
 
