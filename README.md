@@ -59,8 +59,11 @@ Back-end (API): http://localhost:8081
 🧩 Funcionalidades:
 
 1.Cadastro e Login: Autenticação segura para usuários.
+
 2.Fóruns: Espaço seguro para discussões e interações.
+
 3.Cursos: Cursos gratuitos com vídeos, textos e quizzes.
+
 4.Dashboard do Usuário: Área personalizada com progresso e métricas.
 
 🤝 Como Contribuir
