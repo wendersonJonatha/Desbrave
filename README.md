@@ -91,6 +91,17 @@ git push origin minha-feature
 5. Abra um Pull Request.
 
 
+## Acesse a Plataforma Desbrave
+
+Escaneie o QR Code abaixo para acessar a plataforma Desbrave:
+
+![QR Code para Desbrave](https://link-para-imagem-externa.com/qr-code.png)
+
+
+![ImagemDes](https://github.com/user-attachments/assets/54c7eb15-f61b-49f1-8319-eab531c64845)
+
+
+
 📄 Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
