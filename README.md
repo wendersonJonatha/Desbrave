@@ -67,19 +67,23 @@ Back-end (API): http://localhost:8081
 4.Dashboard do Usuário: Área personalizada com progresso e métricas.
 
 🤝 Como Contribuir
+
 1. Faça um fork do repositório.
 
 2.Crie uma branch para sua feature:
+
 bash
 Copy
 git checkout -b minha-feature
 
 3- Commit suas alterações:
+
 bash
 Copy
 git commit -m "Adicionei uma nova funcionalidade"
 
 4- Envie para o repositório remoto:
+
 bash
 Copy
 git push origin minha-feature
