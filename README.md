@@ -87,11 +87,14 @@ git commit -m "Adicionei uma nova funcionalidade"
 bash
 Copy
 git push origin minha-feature
+
 5. Abra um Pull Request.
 
 
 📄 Licença
+
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
 🙌 Agradecimentos
+
 Agradecemos a todos que contribuíram para o desenvolvimento do Desbrave!
